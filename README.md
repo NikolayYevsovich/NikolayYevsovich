@@ -22,6 +22,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="36" height="36" /></a>  
 <a href="http://getbem.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" width="36" height="36" /></a> 
+<a href="http://getbem.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" /></a>
 </p>
 
 ### Socials
