@@ -21,6 +21,7 @@
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="36" height="36" /></a>  
 <a href="http://getbem.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" width="36" height="36" /></a> 
 <a href="http://getbem.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" /></a>
+<a href="http://getbem.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" /></a>
 </p>
 
 ### Socials
