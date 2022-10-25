@@ -3,7 +3,7 @@
 ## Front-end Developer
 
 - ✉️  You can contact me at [yevsovich.nick@gmail.com](mailto:yevsovich.nick@gmail.com)
-- 🧠  I'm learning everything I can...
+- 🧠  I’m currently learning everything I can...
 - 🤝  I'm open to collaborating on interesting projects
 
 ### My stack and tools
@@ -29,8 +29,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/MadSKILLZ#1679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/NikolayYevsovich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nick-yevsovich/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://t.me/NickYevsovich" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.github.com/NikolayYevsovich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://t.me/NickYevsovich" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a> <a href="https://discord.com/users/MadSKILLZ#1679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nick-yevsovich/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
